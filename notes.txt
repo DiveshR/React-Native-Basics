@@ -1,0 +1,1 @@
+npx create-expo-app NativeApp  //generate new native app
